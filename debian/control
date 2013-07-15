@@ -1,0 +1,23 @@
+Source: fonts-junction
+Section: fonts
+Priority: optional
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Uploaders: Andrew Starr-Bochicchio <asb@debian.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: http://www.theleagueofmoveabletype.com/junction
+Vcs-Git: git://anonscm.debian.org/pkg-fonts/fonts-junction.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-fonts/fonts-junction.git
+
+Package: fonts-junction
+Architecture: all
+Multi-Arch: foreign
+Pre-Depends: dpkg (>= 1.15.6~)
+Depends: ${misc:Depends}
+Description: humanist sans-serif typeface
+ Junction, the first open-source type project by The League of Moveable Type,
+ is a  humanist sans-serif font. Designed by Caroline Hadilaksono, it has hand
+ drawn and "human" qualities while retaining the clarity and efficiencies of a
+ sans-serif typeface.
+ .
+ It currently only supports basic Latin characters.

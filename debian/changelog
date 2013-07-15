@@ -1,0 +1,5 @@
+fonts-junction (20110525.18de841-1) unstable; urgency=low
+
+  * Initial release (Closes: #715182).
+
+ -- Andrew Starr-Bochicchio <asb@debian.org>  Mon, 15 Jul 2013 13:09:21 -0400
