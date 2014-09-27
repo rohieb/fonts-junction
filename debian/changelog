@@ -2,8 +2,9 @@ fonts-junction (20140329.fb73260-1~ppa) UNRELEASED; urgency=medium
 
   * New upstream version
     - adds bold typeface and extends internationalisation
+  * Bump standards version to 3.9.5, no change needed
 
- -- Roland Hieber <rohieb@rohieb.name>  Sat, 27 Sep 2014 23:53:24 +0200
+ -- Roland Hieber <rohieb@rohieb.name>  Sun, 28 Sep 2014 00:06:35 +0200
 
 fonts-junction (20110525.18de841-1) unstable; urgency=low
 
